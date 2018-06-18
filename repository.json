@@ -6,7 +6,21 @@
       "author": "Jaysee87",
       "version": "1.0.0.0",
       "uid": "ffiv_fe_key_items_jaysee87",
-      "link": "http://emosaru.com/emotracker/packages/alttprando_v27_openmode_emosaru.zip"
+      "link": "http://jaysee87.github.io/packages/ffiv_fe_key_items_jaysee87.zip"
+    },
+    {
+      "name": "ALTTP Randomizer - Overworld Glitches - Open Mode (v28)",
+      "author": "Jaysee87",
+      "version": "1.0.0.0",
+      "uid": "alttprando_v28_overworld_glitches_open_jaysee87",
+      "link": "http://jaysee87.github.io/packages/alttprando_v28_owg(autoboots)_open_jaysee87.zip"
+    },
+    {
+      "name": "ALTTP Randomizer - Overworld Glitches (No Autoboots) - Open Mode (v28)",
+      "author": "Jaysee87",
+      "version": "1.0.0.0",
+      "uid": "alttprando_v28_overworld_glitches_noboots_open_jaysee87",
+      "link": "http://jaysee87.github.io/packages/alttprando_v28_owg(noboots)_open_jaysee87.zip"
     }
   ]
 }
