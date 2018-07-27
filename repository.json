@@ -43,5 +43,12 @@
       "uid": "alttprando_overworld_glitches_noboots_open_jaysee87",
       "link": "http://jaysee87.github.io/packages/alttprando_overworld_glitches_noboots_open_jaysee87.zip"
     }
+    ,{
+      "name": "Hollow Knight Randomizer - Items Only",
+      "author": "CliffordTBRD",
+      "version": "1.0.0.0",
+      "uid": "HKR_ItemsOnly_cliffordtbrd",
+      "link": "http://jaysee87.github.io/packages/HKR_ItemsOnly_cliffordtbrd.zip"
+    }
   ]
 }
