@@ -52,9 +52,16 @@
       "link": "http://jaysee87.github.io/packages/hkr_itemsonly_cliffordtbrd.zip"
     },
     {
+      "name": "Hollow Knight Randomizer - Map Tracker",
+      "author": "CliffordTBRD",
+      "version": "1.0.0.0",
+      "uid": "hkr_fullmap_cliffordtbrd",
+      "link": "http://jaysee87.github.io/packages/hkr_fullmap_cliffordtbrd.zip"
+    },
+    {
       "name": "Oracle of Seasons Randomizer - Items only",
       "author": "Herreteman",
-      "version": "1.0.0.0",
+      "version": "1.0.2.0",
       "uid": "oos_items_herreteman",
       "link": "http://jaysee87.github.io/packages/oos_items_herreteman.zip"
     }
