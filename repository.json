@@ -3,34 +3,15 @@
   "packages": [
     {
       "name": "FFIV Free Enterprise Randomizer - Key Items Only",
+      "game_name": "FFIV Free Enterprise Randomizer",
       "author": "Jaysee87",
       "version": "1.0.0.0",
       "uid": "ffiv_fe_key_items_jaysee87",
       "link": "http://jaysee87.github.io/packages/ffiv_fe_key_items_jaysee87.zip"
     },
-    //{
-      //"name": "FFIV Free Enterprise Randomizer - Key Items And Characters - Variant A",
-      //"author": "Jaysee87",
-      //"version": "1.0.0.0",
-      //"uid": "ffiv_fe_key_items_chars_a_jaysee87",
-      //"link": "http://jaysee87.github.io/packages/ffiv_fe_key_items_chars_a_jaysee87.zip"
-    //},
-    //{
-      //"name": "FFIV Free Enterprise Randomizer - Key Items And Characters - Variant B",
-      //"author": "Jaysee87",
-      //"version": "1.0.0.0",
-      //"uid": "ffiv_fe_key_items_chars_b_jaysee87",
-      //"link": "http://jaysee87.github.io/packages/ffiv_fe_key_items_chars_b_jaysee87.zip"
-    //},  
-    //{
-      //"name": "FFIV Free Enterprise Randomizer - Key Items And Characters - Variant C",
-      //"author": "Jaysee87",
-      //"version": "1.0.0.0",
-      //"uid": "ffiv_fe_key_items_chars_c_jaysee87",
-      //"link": "http://jaysee87.github.io/packages/ffiv_fe_key_items_chars_c_jaysee87.zip"
-    //},
     {
       "name": "ALTTP Randomizer - Overworld Glitches - Open Mode (V29)",
+      "game_name": "A Link to the Past Randomizer",
       "author": "Jaysee87",
       "version": "1.0.1.1",
       "uid": "alttprando_overworld_glitches_open_jaysee87",
@@ -38,6 +19,7 @@
     },
     {
       "name": "ALTTP Randomizer - Overworld Glitches (No Autoboots) - Open Mode (V29)",
+      "game_name": "A Link to the Past Randomizer",
       "author": "Jaysee87",
       "version": "1.0.1.1",
       "uid": "alttprando_overworld_glitches_noboots_open_jaysee87",
@@ -46,6 +28,7 @@
     
     {
       "name": "Hollow Knight Randomizer - Items Only",
+      "game_name": "Hollow Knight Randomizer",
       "author": "CliffordTBRD",
       "version": "1.0.0.0",
       "uid": "HKR_ItemsOnly_cliffordtbrd",
@@ -53,6 +36,7 @@
     },
     {
       "name": "Hollow Knight Randomizer - Map Tracker",
+      "game_name": "Hollow Knight Randomizer",
       "author": "CliffordTBRD",
       "version": "1.0.0.0",
       "uid": "hkr_fullmap_cliffordtbrd",
@@ -61,6 +45,7 @@
     {
       "name": "Oracle of Seasons Randomizer - Items only",
       "author": "Herreteman",
+      "game_name": "Oracle of Seasons Randomizer",
       "version": "1.0.2.0",
       "uid": "oos_items_herreteman",
       "link": "http://jaysee87.github.io/packages/oos_items_herreteman.zip"
