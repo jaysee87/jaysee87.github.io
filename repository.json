@@ -49,6 +49,14 @@
       "version": "1.0.2.0",
       "uid": "oos_items_herreteman",
       "link": "http://jaysee87.github.io/packages/oos_items_herreteman.zip"
+    },
+	{
+      "name": "Oracle of Seasons Randomizer - Items and map",
+      "author": "Herreteman",
+      "game_name": "Oracle of Seasons Randomizer",
+      "version": "1.0.0.0",
+      "uid": "oos_items_and_map_herreteman",
+      "link": "http://jaysee87.github.io/packages/oos_items_and_map_herreteman.zip"
     }
   ]
 }
